@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bmcdonnell1
+- 👋 Hi, I’m @sirmcdonnell
 - 👀 I’m interested in ... solutions architect
 - 🌱 I’m currently learning ... cloud computing
 - 💞️ I’m looking to collaborate on ... nothing at the moment
